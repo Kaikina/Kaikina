@@ -4,7 +4,7 @@ Hi 👋 My name is Tom Girou
 Back-end Developer
 ------------------
 
-I've started learning development during my teenager years by creating private videogame servers. It's all naturally that I continued development by doing a BTEC and a Bachelor (Web development & IoT). I worked 1 year for an online gift-card startup (Java Spring Boot/Angular + AWS devOps/Wordpress) and 1 year for a digital agency that makes websites for public organizations. I'm currently working for a retail organization (Prestashop).
+I've started learning development during my teenager years by creating private videogame servers. It's all naturally that I continued development by doing a BTEC and a Bachelor (Web development & IoT). I worked 1 year for an online gift-card startup (Java Spring Boot/Angular + AWS devOps/Wordpress) and 1 year for a digital agency that makes websites for public organizations. 1 year for a retail organization, working on their PrestaShop websites. I'm currently working for a digital agency realizing PrestaShop websites.
 
 *   🌍  I'm based in Lyon, France
 *   ✉️  You can contact me at [girou.tom@gmail.com](mailto:girou.tom@gmail.com)
