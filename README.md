@@ -6,10 +6,9 @@ Back-end Developer
 
 I've started learning development during my teenager years by creating private videogame servers. It's all naturally that I continued development by doing a BTEC and a Bachelor (Web development & IoT). I worked 1 year for an online gift-card startup (Java Spring Boot/Angular + AWS devOps/Wordpress) and 1 year for a digital agency that makes websites for public organizations. 1 year for a retail organization, working on their PrestaShop websites. I'm currently working for a digital agency realizing PrestaShop websites.
 
-*   🌍  I'm based in Lyon, France
+*   🌍  I'm based in La Valla-en-Gier, France
 *   ✉️  You can contact me at [girou.tom@gmail.com](mailto:girou.tom@gmail.com)
-*   🤝  I'm open to collaborating on NFT projects (Voxel Art), Voxel Art commissions and Forge Minecraft mods
-*   ⚡  I'm currently coding a board game for Board Game Arena
+*   ⚡  I'm currently developing a Dofus fan-site : Smithmagus Marketplace
 
 <a href="https://www.twitter.com/kaikina_art" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/kaikina_art?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
   
