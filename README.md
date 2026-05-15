@@ -22,5 +22,7 @@ I've started learning development during my teenager years by creating private v
   <a href="https://www.youtube.com/c/kaikina" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 </p>
 
+![RepoWrapped](https://repo-wrapped.tom-girou.dev/card/prestashop/prestashop/kaikina?theme=light)
+
 ![profile 3d light](./profile-3d-contrib/profile-season-animate.svg#gh-light-mode-only)
 ![profile 3d dark](./profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
