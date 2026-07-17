@@ -8,6 +8,7 @@
   - **Portfolio & case studies** → [tom-girou.dev](https://tom-girou.dev/)
   - **LinkedIn** → [linkedin.com/in/tgirou](https://www.linkedin.com/in/tgirou)
   - **Repo Wrapped** → [repo-wrapped.tom-girou.dev](https://repo-wrapped.tom-girou.dev)
+  - **Forgemage.net** → [forgemage.net](https://forgemage.net)
 
   ---
 
